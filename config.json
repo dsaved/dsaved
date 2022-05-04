@@ -1,0 +1,33 @@
+{
+    "app_name": "Minton",
+    "socket_port": 8081,
+    "site_link": "http://localhost:8081/",
+    "main_site": "http://localhost.com:3000",
+    "db_config": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "minton",
+        "debug": false,
+        "dateStrings": "date",
+        "multipleStatements": true
+    },
+    "email": {
+        "host": "server-host",
+        "port": 465,
+        "secure": true,
+        "auth": {
+            "user": "email@company.com",
+            "pass": "password"
+        },
+        "sender": "\"sender name\" <email@company.com> "
+    },
+    "sms": {
+        "host": "",
+        "key": "",
+        "sender": ""
+    },
+    "telegram_bot_key": "5106933917:AAEpCBVUHzjop85nwtKoQRLFgAPmPfYLcqI",
+    "x_pub_key": "xpub6DRjyEewZY29u9WPThvQAFQgxqUh1CxNeQuJ8axchTx3Jn4aNpET819VHD5BsCehxRqsJ1veFpyy3RDqvZpVHthCnukDccZtB8ncM7SSQYY",
+    "XCoinAPIKey": "8DA00833-E48C-409F-94CF-CE2E6CAD5B80"
+}
