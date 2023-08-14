@@ -4,9 +4,9 @@
 
 I'm a software engineer with experience in Node, JavaScript, C#, JAVA, MySQL, SQL, etc. I've been working professionally in engineering and web development since 2014. I am enthusiastic about solving problems. I am passionate about building systems that solve real-life problems.
 
-#### I am a Software Engineer based in Ghana, Greater Accra.
+#### I am a Software Engineer based in Nigeria, FCT (Abuja).
 
-- 😎 Open to contracting opportunities, full-time employment, and remote work.
+- 😎 Open to contracting opportunities,  and remote work.
 - 🏢 Previously a Software Engineer at **Afrifanom**
 - ⚙️ Love workin with: `.ts`, `.js`, `.php`, `.dart`, `.html`, `.scss`, `.json`, `.yml`
 - 🌱 Learning more about and studying: **Open Source, React, Spring boot, MongoDb, Blockchain**
