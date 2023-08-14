@@ -33,8 +33,6 @@ I'm a software engineer with experience in Node, JavaScript, C#, JAVA, MySQL, SQ
       alt="dsaved"
     />
   </a>
-</div>
-<div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       width="325"
