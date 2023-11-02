@@ -1,4 +1,4 @@
-![background](https://www.dsaved.com/img/github/wallpaperflare-cropped.jpg)
+![background](https://www.dsaved.com/img/github/cat.png)
 ### Hi 👋 I'm Daniel Johnson
 ---
 
