@@ -39,5 +39,4 @@
 <div align="center">
   <img height="180" src="https://githubstats-weld.vercel.app/api?username=dsaved&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="dsaved's stats" />
   <img height="180" src="https://githubstats-weld.vercel.app/api/top-langs/?username=dsaved&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="dsaved's top langs" />
-  <img height="180" src="https://githubstats-weld.vercel.app/?user=dsaved&theme=vue-dark&hide_border=true" alt="dsaved's streak" />
 </div>
